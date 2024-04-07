@@ -12,7 +12,7 @@ cd to the ```apis``` folder run command below
 dotnet run --project WebAPI
 ```
 ### run with VisualStudio
-open file ```hectre-challenge.sln``` and run
+open file ```PIMTool.sln``` and run
 
 ## EF migration
 0. install global tool to make migration(do only 1 time & your machine is good to go for the next)
